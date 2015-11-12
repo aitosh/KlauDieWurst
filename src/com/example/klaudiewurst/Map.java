@@ -7,7 +7,7 @@ public class Map{
 	private Tiles [][][] map;
 
 	public Map(Point dimension) {
-		map = new Tiles[dimension.x][dimension.y][];
+		map = new Tiles[dimension.x][dimension.y][2];
 
 		for (int i = 0; i < dimension.x; i++) {
 			for (int j = 0; j < dimension.y; j++) {

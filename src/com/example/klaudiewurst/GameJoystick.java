@@ -51,4 +51,3 @@ public class GameJoystick extends SurfaceView {
 		this.trigger = trigger;
 	}
 }
-

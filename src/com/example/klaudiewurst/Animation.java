@@ -59,6 +59,8 @@ public class Animation {
 			} else {
 				return bLoad.getMouseRun(direction * 8 + spriteCounter);
 			}
+			
 		}
+		return null;
 	}
 }

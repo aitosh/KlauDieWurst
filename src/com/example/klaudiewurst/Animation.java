@@ -25,6 +25,7 @@ public class Animation {
 	// Player
 	// 0 mouse
 	// 1 cat
+	// ?
 	int player;
 
 	private int movement;

@@ -7,6 +7,8 @@ import android.view.SurfaceView;
 
 public class BitmapsLoad extends SurfaceView {
 
+	//Load movement sprites
+	
 	private Bitmap[] mouseRun = new Bitmap[64];
 	private Bitmap[] mouseWalk = new Bitmap[64];
 	private Bitmap[] mouseStands = new Bitmap[8];
